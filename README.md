@@ -1,6 +1,6 @@
 # FutureLearnData: R data package for the Data to Insight MOOC
 
-This package is primarly created for use with [iNZight](stat.auckland.ac.nz/~wild/iNZight).
+This package is primarly created for use with [iNZight](https://www.stat.auckland.ac.nz/~wild/iNZight).
 
 ## Contents
 
