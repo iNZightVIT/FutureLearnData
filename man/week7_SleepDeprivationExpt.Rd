@@ -9,6 +9,7 @@
 week7_SleepDeprivationExpt
 }
 \description{
+Data from a study by Stickgold et al. (2000)
 Nature Neuroscience 2 (1237-8)
 given in Investigating Statistical Concepts Applications and
 Methods (2006) by Rossman and Chance
