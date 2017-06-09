@@ -16,4 +16,3 @@ Data from an experiment with mice having different nighttime
 light conditions.
 }
 \keyword{datasets}
-

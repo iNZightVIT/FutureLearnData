@@ -15,4 +15,3 @@ nhanes_2000
 The first 2000 rows of the NHANES data set.
 }
 \keyword{datasets}
-

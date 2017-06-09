@@ -16,4 +16,3 @@ A dataset containing a variety of indiators from the Gapminder website,
 limited to the year 2008. Full details can be found on the website.
 }
 \keyword{datasets}
-

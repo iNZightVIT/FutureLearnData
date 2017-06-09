@@ -22,4 +22,3 @@ of stay. It is calculated for each day within the selected
 period and averaged.
 }
 \keyword{datasets}
-

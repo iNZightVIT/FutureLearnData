@@ -4,7 +4,7 @@
 \name{olympics100m}
 \alias{olympics100m}
 \title{Olympics 100m}
-\format{An object of class \code{data.frame} with 47 rows and 5 columns.}
+\format{An object of class \code{data.frame} with 49 rows and 5 columns.}
 \usage{
 olympics100m
 }
@@ -12,4 +12,3 @@ olympics100m
 Data from the 100m olympics event.
 }
 \keyword{datasets}
-

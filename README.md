@@ -1,4 +1,5 @@
 # FutureLearnData: R data package for the Data to Insight MOOC
+[![Travis-CI Build Status](https://travis-ci.org/iNZightVIT/iNZightMaps.svg?branch=master)](https://travis-ci.org/iNZightVIT/iNZightMaps)
 
 This package is primarly created for use with [iNZight](https://www.stat.auckland.ac.nz/~wild/iNZight).
 

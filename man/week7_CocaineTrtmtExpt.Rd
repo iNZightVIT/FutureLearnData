@@ -15,4 +15,3 @@ found in Statistics Unlocking the Power of Data (2013)
 by Lock, R.H. et al.
 }
 \keyword{datasets}
-

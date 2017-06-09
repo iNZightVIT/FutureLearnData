@@ -15,4 +15,3 @@ students to estimate (in millions) the population of Canada
 (5th ed.). USA: Cengage Learning.)
 }
 \keyword{datasets}
-

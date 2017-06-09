@@ -16,4 +16,3 @@ allocated to one of two groups, Informed and Control.
 (Those with missing values have been taken out of our dataset.)
 }
 \keyword{datasets}
-

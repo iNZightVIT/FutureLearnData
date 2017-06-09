@@ -15,4 +15,3 @@ nhanes_1000_50
 The first 50 rows of the NHANES data set.
 }
 \keyword{datasets}
-

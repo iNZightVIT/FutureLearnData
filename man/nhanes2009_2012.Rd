@@ -22,4 +22,3 @@ component of the survey. The health examination is conducted in a mobile
 examination centre (MEC).
 }
 \keyword{datasets}
-

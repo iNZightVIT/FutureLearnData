@@ -15,4 +15,3 @@ given in Investigating Statistical Concepts Applications and
 Methods (2006) by Rossman and Chance
 }
 \keyword{datasets}
-

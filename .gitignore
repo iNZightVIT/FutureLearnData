@@ -1,5 +1,3 @@
-.Rhistory
-.RData
-
-*~
-.*~
+revdep
+*.tar.gz
+*.Rcheck
