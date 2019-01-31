@@ -1,6 +1,6 @@
 Package: FutureLearnData
 Title: Data sets for the Data to Insight MOOC
-Version: 0.0.3
+Version: 0.0.3.9000
 Date: 2017-03-23
 Authors@R: c(person("Tom", "Elliott", email = "tom.elliott@auckland.ac.nz",
                     role = c("aut", "cre")))
