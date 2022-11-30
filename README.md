@@ -1,4 +1,5 @@
 # FutureLearnData: R data package for the Data to Insight MOOC
+
 [![Travis-CI Build Status](https://travis-ci.org/iNZightVIT/FutureLearnData.svg?branch=master)](https://travis-ci.org/iNZightVIT/FutureLearnData)
 
 This package is primarly created for use with [iNZight](https://www.stat.auckland.ac.nz/~wild/iNZight).
@@ -6,6 +7,7 @@ This package is primarly created for use with [iNZight](https://www.stat.aucklan
 ## Contents
 
 The R package contains these datasets:
+
 - Gapminder
   - `gapminder`, data from 1952--2012
   - `gapminder-2008`, data for just 2008
@@ -28,6 +30,7 @@ The R package contains these datasets:
 ## Usage
 
 To load, for example, the "Gapminder 2008" data set, just run these commands in R:
+
 ```{r}
 library(FutureLearnData)
 data('gapminder-2008')

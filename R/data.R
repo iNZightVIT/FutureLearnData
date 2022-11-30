@@ -222,4 +222,3 @@
 #' }
 #' @source \url{http://new.censusatschool.org.nz/}
 "census.at.school.500"
-
